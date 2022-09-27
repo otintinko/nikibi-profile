@@ -1,0 +1,33 @@
+body{
+  background-image: url("聖光オラトワール.jpeg");
+  background-size: cover;
+}
+
+header {
+    position: relative;
+    padding-left: 20sspx;
+    color: black;
+}
+
+nav {
+  position: absolute;
+  top: 20;
+  right: 10px;
+  color: black;
+}
+li {
+	list-style-type: none;
+	line-height:2.0em;
+	border-bottom: 1px solid #ccc;
+}
+ul {
+	background: #EEE;
+	padding:0;
+}
+.img {
+  width: auto;
+}
+
+introductions {
+  
+}
